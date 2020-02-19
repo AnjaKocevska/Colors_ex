@@ -6,3 +6,4 @@ black
 pink
 purple
 green
+lightgrey
